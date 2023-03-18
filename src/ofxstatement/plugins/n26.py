@@ -24,6 +24,12 @@ TYPE_MAPPING = {
     "Trasferimento in uscita": "XFER",
     "N26 sponsorizzazione": "CREDIT",
     "MoneyBeam": "XFER",
+    
+    # English
+    "Outgoing Transfer": "XFER",
+    "MasterCard Payment": "POS",
+    "Direct Debit": "XFER",
+    "Income": "XFER",
 
     # Add translations for other statements
 }
